@@ -1,0 +1,12 @@
+{
+  "times": [
+    "08:00",
+    "20:00"
+  ],
+  "title": "Take your meds!",
+  "message": "Time to take your medication now.",
+  "snooze_minutes": 10,
+  "repeat_seconds": 40,
+  "sound": true,
+  "grab_focus": true
+}
